@@ -1,9 +1,7 @@
 package br.com.dev.filmeapp;
 
-/*
-Nome: Igor Deuzami Moreira
-RA: 816120413
- */
+/* IGOR DEUZAMI MOREIRA
+RA: 816120413 */
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -37,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(view.getContext(), ListaFilmesActivity.class);
-
                 intent.putExtra(CHAVE, genero);
                 startActivity(intent);
             }

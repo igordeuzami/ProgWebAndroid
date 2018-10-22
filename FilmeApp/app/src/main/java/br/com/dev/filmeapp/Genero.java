@@ -1,9 +1,7 @@
 package br.com.dev.filmeapp;
 
-/*
-Nome: Igor Deuzami Moreira
-RA: 816120413
- */
+/* IGOR DEUZAMI MOREIRA
+RA: 816120413 */
 
 import java.util.ArrayList;
 
